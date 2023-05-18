@@ -1,0 +1,15 @@
+temps,température,humidité,vent,jouer
+ensoleillé,chaud,élevée,faible,non
+ensoleillé,chaud,élevée,forte,non
+nuageux,chaud,élevée,faible,oui
+pluvieux,moyen,élevée,faible,oui
+pluvieux,frais,normal,faible,oui
+pluvieux,frais,normal,forte,non
+nuageux,frais,normal,forte,oui
+ensoleillé,moyen,élevée,faible,non
+ensoleillé,frais,normal,faible,oui
+pluvieux,moyen,normal,faible,oui
+ensoleillé,moyen,normal,forte,oui
+nuageux,moyen,élevée,forte,oui
+nuageux,chaud,normal,faible,oui
+pluvieux,moyen,élevée,forte,non
